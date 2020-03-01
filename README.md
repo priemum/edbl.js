@@ -1,4 +1,4 @@
-# ToxicBotList.js API Wrapper
+# ElectroBotList.js API Wrapper
 ![Hi](https://nodei.co/npm/edbl.js.png?downloads=true&stars=true)
 
 A simple nodejs module helps you to get info/votes of bots from [Electro Discord Bot List](https://www.edbl.xyz)
